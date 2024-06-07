@@ -1,0 +1,1 @@
+ss = 'String variable'
